@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebApi</string>
+    <string name="get_an_advice">get an advice</string>
+    <string name="voltar">Voltar</string>
+</resources>
